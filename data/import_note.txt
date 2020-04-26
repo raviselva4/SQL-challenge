@@ -1,0 +1,10 @@
+--
+--   Import order...
+--
+departments
+titles
+employees
+-- 		the following can be in any order...
+salaries
+dept_emp
+dept_manager
